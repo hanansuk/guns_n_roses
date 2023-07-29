@@ -1,326 +1,510 @@
-"state","topic","description","rank"
-"Alabama","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
-"Alabama","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
-"Alabama","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",3
-"Alabama","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",4
-"Alabama","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",5
-"Alabama","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
-"Alabama","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
-"Alaska","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
-"Alaska","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Alaska","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
-"Alaska","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",4
-"Alaska","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",5
-"Alaska","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",6
-"Alaska","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",7
-"Alaska","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",8
-"Alaska","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",9
-"Alaska","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",10
-"Arizona","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Arizona","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
-"Arizona","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",3
-"Arizona","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",4
-"Arizona","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",5
-"Arizona","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
-"Arkansas","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
-"Arkansas","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
-"Arkansas","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
-"Arkansas","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",4
-"Arkansas","topic_4","Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",5
-"Arkansas","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",6
-"Arkansas","topic_9","A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",7
-"California","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
-"California","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
-"California","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",3
-"California","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",4
-"California","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",5
-"Colorado","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
-"Colorado","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"Colorado","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
-"Colorado","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",4
-"Colorado","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
-"Connecticut","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
-"Connecticut","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
-"Connecticut","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
-"Connecticut","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",4
-"Delaware","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"Delaware","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",2
-"Delaware","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
-"Delaware","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",4
-"Delaware","topic_8","A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",5
-"Delaware","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",6
-"District of Columbia","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",1
-"District of Columbia","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"District of Columbia","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
-"District of Columbia","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",4
-"District of Columbia","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",5
-"District of Columbia","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
-"Florida","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Florida","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Florida","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",3
-"Georgia","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"Georgia","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Georgia","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",3
-"Georgia","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",4
-"Georgia","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
-"Georgia","topic_8","A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",6
-"Georgia","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
-"Georgia","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
-"Georgia","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",9
-"Hawaii","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"Hawaii","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Hawaii","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",3
-"Hawaii","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",4
-"Idaho","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Idaho","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"Idaho","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
-"Idaho","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",4
-"Idaho","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",5
-"Idaho","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
-"Idaho","topic_9","A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",7
-"Idaho","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",8
-"Idaho","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",9
-"Idaho","topic_4","Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",10
-"Illinois","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
-"Illinois","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Illinois","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",3
-"Illinois","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",4
-"Indiana","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
-"Indiana","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
-"Indiana","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",3
-"Indiana","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",4
-"Indiana","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",5
-"Iowa","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",1
-"Iowa","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Iowa","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
-"Iowa","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",4
-"Iowa","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
-"Iowa","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",6
-"Kansas","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
-"Kansas","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",2
-"Kansas","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
-"Kansas","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
-"Kansas","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",5
-"Kansas","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",6
-"Kansas","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
-"Kansas","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",8
-"Kentucky",NA,NA,1
-"Louisiana","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
-"Louisiana","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",2
-"Louisiana","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
-"Louisiana","topic_4","Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",4
-"Louisiana","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",5
-"Louisiana","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
-"Louisiana","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
-"Louisiana","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",8
-"Maine","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
-"Maine","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",2
-"Maine","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",3
-"Maine","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",4
-"Maine","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",5
-"Maine","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",6
-"Maryland","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Maryland","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"Maryland","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",3
-"Maryland","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",4
-"Maryland","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",5
-"Maryland","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",6
-"Massachusetts","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
-"Massachusetts","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
-"Massachusetts","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
-"Massachusetts","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",4
-"Massachusetts","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
-"Massachusetts","topic_2","The sale of a firearm without a federal instant background check is a class A misdemeanor, and it is illegal to give or lend a handgun to a minor.",6
-"Massachusetts","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
-"Michigan","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
-"Michigan","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
-"Michigan","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
-"Michigan","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",4
-"Michigan","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
-"Minnesota","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Minnesota","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
-"Minnesota","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
-"Minnesota","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
-"Minnesota","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",5
-"Minnesota","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",6
-"Minnesota","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
-"Mississippi","topic_6","Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",1
-"Mississippi","topic_4","Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",2
-"Missouri","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
-"Missouri","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Missouri","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
-"Missouri","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",4
-"Missouri","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",5
-"Missouri","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
-"Missouri","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
-"Montana","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
-"Montana","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
-"Montana","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",3
-"Montana","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",4
-"Montana","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
-"Montana","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",6
-"Montana","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",7
-"Montana","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",8
-"Montana","topic_28","A person commits the offense of unlawful use of weapons when they carry or possess a pistol or revolver in any vehicle, or concealed on or about their person, unless on their own land or in their own abode, legal dwelling or fixed place of business.",9
-"Montana","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",10
-"Nebraska","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Nebraska","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",2
-"Nebraska","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
-"Nebraska","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",4
-"Nevada","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",1
-"Nevada","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Nevada","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
-"Nevada","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",4
-"Nevada","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",5
-"Nevada","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
-"Nevada","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",7
-"New Hampshire","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
-"New Hampshire","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
-"New Hampshire","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",3
-"New Hampshire","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
-"New Hampshire","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",5
-"New Hampshire","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",6
-"New Hampshire","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",7
-"New Hampshire","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",8
-"New Hampshire","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",9
-"New Hampshire","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",10
-"New Jersey","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"New Jersey","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
-"New Jersey","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",3
-"New Jersey","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",4
-"New Mexico","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"New Mexico","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
-"New Mexico","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",3
-"New Mexico","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",4
-"New Mexico","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",5
-"New Mexico","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",6
-"New Mexico","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
-"New York","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"New York","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
-"New York","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",3
-"New York","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",4
-"New York","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
-"North Carolina","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",1
-"North Carolina","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
-"North Carolina","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",3
-"North Carolina","topic_6","Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",4
-"North Carolina","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
-"North Dakota","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
-"North Dakota","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
-"North Dakota","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",3
-"North Dakota","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",4
-"North Dakota","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
-"North Dakota","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",6
-"North Dakota","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",7
-"North Dakota","topic_4","Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",8
-"North Dakota","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",9
-"North Dakota","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",10
-"Ohio","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",1
-"Ohio","topic_4","Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",2
-"Ohio","topic_24","It is illegal for any licensed importer, manufacturer, or dealer to sell, deliver, or transfer handguns to unlicensed individuals 90 days after the enactment of this subsection.",3
-"Ohio","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
-"Ohio","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
-"Oklahoma",NA,NA,1
-"Oregon","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
-"Oregon","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",2
-"Oregon","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",3
-"Oregon","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",4
-"Oregon","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",5
-"Oregon","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",6
-"Oregon","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",7
-"Pennsylvania","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"Pennsylvania","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"Pennsylvania","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",3
-"Pennsylvania","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",4
-"Pennsylvania","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",5
-"Pennsylvania","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",6
-"Pennsylvania","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",7
-"Pennsylvania","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
-"Rhode Island","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"Rhode Island","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
-"Rhode Island","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
-"Rhode Island","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",4
-"Rhode Island","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",5
-"Rhode Island","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",6
-"Rhode Island","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
-"Rhode Island","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",8
-"Rhode Island","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",9
-"Rhode Island","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",10
-"South Carolina","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
-"South Carolina","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"South Carolina","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",3
-"South Carolina","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",4
-"South Carolina","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",5
-"South Carolina","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",6
-"South Carolina","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",7
-"South Carolina","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
-"South Carolina","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",9
-"South Dakota","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
-"South Dakota","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
-"South Dakota","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",3
-"South Dakota","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",4
-"South Dakota","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",5
-"South Dakota","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",6
-"South Dakota","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",7
-"South Dakota","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",8
-"South Dakota","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",9
-"Tennessee","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Tennessee","topic_15","Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
-"Tennessee","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",3
-"Tennessee","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
-"Tennessee","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",5
-"Tennessee","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",6
-"Tennessee","topic_5","Selling firearms without a valid license in Hawaii is a misdemeanor punishable by a $10 fee.",7
-"Tennessee","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",8
-"Tennessee","topic_2","The sale of a firearm without a federal instant background check is a class A misdemeanor, and it is illegal to give or lend a handgun to a minor.",9
-"Tennessee","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",10
-"Texas","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Texas","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
-"Texas","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
-"Texas","topic_6","Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",4
-"Texas","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",5
-"Texas","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",6
-"Texas","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
-"Utah","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",1
-"Utah","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",2
-"Utah","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
-"Utah","topic_7","Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",4
-"Vermont","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
-"Vermont","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"Vermont","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
-"Vermont","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
-"Vermont","topic_2","The sale of a firearm without a federal instant background check is a class A misdemeanor, and it is illegal to give or lend a handgun to a minor.",5
-"Vermont","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",6
-"Virginia","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
-"Virginia","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
-"Virginia","topic_11","The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force if they reasonably believed it necessary to protect themselves.",3
-"Virginia","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",4
-"Virginia","topic_8","A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",5
-"Virginia","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
-"Virginia","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",7
-"Washington","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
-"Washington","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"Washington","topic_20","A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.",3
-"Washington","topic_17","A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",4
-"Washington","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
-"Washington","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",6
-"West Virginia","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
-"West Virginia","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
-"West Virginia","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
-"West Virginia","topic_8","A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",4
-"West Virginia","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",5
-"West Virginia","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
-"West Virginia","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",7
-"Wisconsin","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
-"Wisconsin","topic_23","No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",2
-"Wisconsin","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
-"Wisconsin","topic_13","The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",4
-"Wyoming","topic_25","Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
-"Wyoming","topic_27","Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
-"Wyoming","topic_12","A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",3
-"Wyoming","topic_29","A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
-"Wyoming","topic_14","No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",5
-"Wyoming","topic_22","No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
-"Wyoming","topic_4","Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",7
-"Wyoming","topic_10","A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",8
-"Wyoming","topic_21","Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.",9
+state,topic,description,rank
+Alabama,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
+Alabama,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
+Alabama,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",3
+Alabama,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,4
+Alabama,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",5
+Alabama,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
+Alabama,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
+Alabama,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,8
+Alabama,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",9
+Alabama,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,10
+Alaska,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
+Alaska,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Alaska,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+Alaska,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",4
+Alaska,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",5
+Alaska,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",6
+Alaska,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",7
+Alaska,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,8
+Alaska,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",9
+Alaska,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,10
+Arizona,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Arizona,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
+Arizona,Topic 5,Selling firearms without a valid license is a misdemeanor,3
+Arizona,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",4
+Arizona,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",5
+Arizona,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",6
+Arizona,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,7
+Arizona,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+Arizona,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Arizona,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,10
+Arkansas,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+Arkansas,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
+Arkansas,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
+Arkansas,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",4
+Arkansas,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",5
+Arkansas,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,6
+Arkansas,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",7
+Arkansas,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,8
+Arkansas,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",9
+Arkansas,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,10
+California,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+California,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
+California,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,3
+California,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",4
+California,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",5
+California,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",6
+California,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",7
+California,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,8
+California,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",9
+California,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,10
+Colorado,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
+Colorado,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+Colorado,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
+Colorado,Topic 5,Selling firearms without a valid license is a misdemeanor,4
+Colorado,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,5
+Colorado,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
+Colorado,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,7
+Colorado,Topic 3,"A valid license can be issued for hunting, target shooting, and self-defense purposes by court justices, police boards, mayors, selectmen, or the commissioner of public safety.",8
+Colorado,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,9
+Colorado,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",10
+Connecticut,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+Connecticut,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Connecticut,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+Connecticut,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
+Connecticut,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",5
+Connecticut,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
+Connecticut,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,7
+Connecticut,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,8
+Connecticut,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",9
+Connecticut,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",10
+Delaware,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
+Delaware,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",2
+Delaware,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",3
+Delaware,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",4
+Delaware,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,5
+Delaware,Topic 8,"A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",6
+Delaware,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,7
+Delaware,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",8
+Delaware,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",9
+Delaware,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,10
+District of Columbia,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",1
+District of Columbia,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+District of Columbia,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+District of Columbia,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",4
+District of Columbia,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",5
+District of Columbia,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
+District of Columbia,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,7
+District of Columbia,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,8
+District of Columbia,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,9
+District of Columbia,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,10
+Florida,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Florida,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Florida,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,3
+Florida,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",4
+Florida,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
+Florida,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,6
+Florida,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,7
+Florida,Topic 3,"A valid license can be issued for hunting, target shooting, and self-defense purposes by court justices, police boards, mayors, selectmen, or the commissioner of public safety.",8
+Florida,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",9
+Florida,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,10
+Georgia,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
+Georgia,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Georgia,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",3
+Georgia,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",4
+Georgia,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
+Georgia,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",6
+Georgia,Topic 8,"A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",7
+Georgia,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",8
+Georgia,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",9
+Georgia,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
+Hawaii,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+Hawaii,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
+Hawaii,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",3
+Hawaii,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",4
+Hawaii,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",5
+Hawaii,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
+Hawaii,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,7
+Hawaii,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",8
+Hawaii,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,9
+Hawaii,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
+Idaho,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Idaho,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+Idaho,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+Idaho,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,4
+Idaho,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,5
+Idaho,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
+Idaho,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",7
+Idaho,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",8
+Idaho,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",9
+Idaho,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",10
+Illinois,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
+Illinois,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Illinois,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",3
+Illinois,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,4
+Illinois,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
+Illinois,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,6
+Illinois,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,7
+Illinois,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,8
+Illinois,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",9
+Illinois,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",10
+Indiana,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+Indiana,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
+Indiana,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+Indiana,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
+Indiana,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",5
+Indiana,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,6
+Indiana,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
+Indiana,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,8
+Indiana,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Indiana,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",10
+Iowa,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",1
+Iowa,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Iowa,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
+Iowa,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",4
+Iowa,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",5
+Iowa,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",6
+Iowa,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
+Iowa,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,8
+Iowa,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Iowa,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,10
+Kansas,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
+Kansas,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,2
+Kansas,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+Kansas,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
+Kansas,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,5
+Kansas,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
+Kansas,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",7
+Kansas,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+Kansas,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,9
+Kansas,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,10
+Kentucky,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Kentucky,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,2
+Kentucky,Topic 3,"A valid license can be issued for hunting, target shooting, and self-defense purposes by court justices, police boards, mayors, selectmen, or the commissioner of public safety.",3
+Kentucky,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",4
+Kentucky,Topic 5,Selling firearms without a valid license is a misdemeanor,5
+Kentucky,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",6
+Kentucky,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,7
+Kentucky,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,8
+Kentucky,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",9
+Kentucky,Topic 28,"A person commits the offense of unlawful use of weapons when they carry or possess a pistol or revolver in any vehicle, or concealed on or about their person, unless on their own land or in their own abode, legal dwelling or fixed place of business.",10
+Louisiana,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
+Louisiana,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",2
+Louisiana,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
+Louisiana,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",4
+Louisiana,Topic 5,Selling firearms without a valid license is a misdemeanor,5
+Louisiana,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
+Louisiana,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
+Louisiana,Topic 8,"A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",8
+Louisiana,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,9
+Louisiana,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,10
+Maine,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
+Maine,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",2
+Maine,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",3
+Maine,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,4
+Maine,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,5
+Maine,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",6
+Maine,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",7
+Maine,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,8
+Maine,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",9
+Maine,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
+Maryland,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Maryland,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",2
+Maryland,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
+Maryland,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",4
+Maryland,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",5
+Maryland,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,6
+Maryland,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
+Maryland,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",8
+Maryland,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Maryland,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",10
+Massachusetts,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+Massachusetts,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
+Massachusetts,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
+Massachusetts,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",4
+Massachusetts,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
+Massachusetts,Topic 2,"The sale of a firearm without a federal instant background check is a class A misdemeanor, and it is illegal to give or lend a handgun to a minor.",6
+Massachusetts,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
+Massachusetts,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",8
+Massachusetts,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Massachusetts,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
+Michigan,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+Michigan,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
+Michigan,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+Michigan,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",4
+Michigan,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
+Michigan,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,6
+Michigan,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,7
+Michigan,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",8
+Michigan,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,9
+Michigan,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",10
+Minnesota,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Minnesota,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
+Minnesota,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",3
+Minnesota,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",4
+Minnesota,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",5
+Minnesota,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,6
+Minnesota,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",7
+Minnesota,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+Minnesota,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Minnesota,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",10
+Mississippi,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",1
+Mississippi,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",2
+Mississippi,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,3
+Mississippi,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",4
+Mississippi,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,5
+Mississippi,Topic 3,"A valid license can be issued for hunting, target shooting, and self-defense purposes by court justices, police boards, mayors, selectmen, or the commissioner of public safety.",6
+Mississippi,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,7
+Mississippi,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+Mississippi,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",9
+Mississippi,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",10
+Missouri,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
+Missouri,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Missouri,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
+Missouri,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,4
+Missouri,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",5
+Missouri,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
+Missouri,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
+Missouri,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,8
+Missouri,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",9
+Missouri,Topic 3,"A valid license can be issued for hunting, target shooting, and self-defense purposes by court justices, police boards, mayors, selectmen, or the commissioner of public safety.",10
+Montana,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
+Montana,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
+Montana,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",3
+Montana,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",4
+Montana,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
+Montana,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,6
+Montana,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",7
+Montana,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",8
+Montana,Topic 28,"A person commits the offense of unlawful use of weapons when they carry or possess a pistol or revolver in any vehicle, or concealed on or about their person, unless on their own land or in their own abode, legal dwelling or fixed place of business.",9
+Montana,Topic 8,"A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",10
+Nebraska,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Nebraska,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",2
+Nebraska,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
+Nebraska,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",4
+Nebraska,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
+Nebraska,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,6
+Nebraska,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,7
+Nebraska,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",8
+Nebraska,Topic 3,"A valid license can be issued for hunting, target shooting, and self-defense purposes by court justices, police boards, mayors, selectmen, or the commissioner of public safety.",9
+Nebraska,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",10
+Nevada,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+Nevada,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
+Nevada,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",3
+Nevada,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",4
+Nevada,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",5
+Nevada,Topic 5,Selling firearms without a valid license is a misdemeanor,6
+Nevada,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",7
+Nevada,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,8
+Nevada,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",9
+Nevada,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
+New Hampshire,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",1
+New Hampshire,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
+New Hampshire,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,3
+New Hampshire,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
+New Hampshire,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",5
+New Hampshire,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",6
+New Hampshire,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",7
+New Hampshire,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",8
+New Hampshire,Topic 5,Selling firearms without a valid license is a misdemeanor,9
+New Hampshire,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",10
+New Jersey,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
+New Jersey,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
+New Jersey,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",3
+New Jersey,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",4
+New Jersey,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",5
+New Jersey,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
+New Jersey,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
+New Jersey,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",8
+New Jersey,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,9
+New Jersey,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",10
+New Mexico,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+New Mexico,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",2
+New Mexico,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",3
+New Mexico,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",4
+New Mexico,Topic 28,"A person commits the offense of unlawful use of weapons when they carry or possess a pistol or revolver in any vehicle, or concealed on or about their person, unless on their own land or in their own abode, legal dwelling or fixed place of business.",5
+New Mexico,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
+New Mexico,Topic 5,Selling firearms without a valid license is a misdemeanor,7
+New Mexico,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+New Mexico,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+New Mexico,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,10
+New York,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
+New York,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
+New York,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",3
+New York,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",4
+New York,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,5
+New York,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
+New York,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,7
+New York,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,8
+New York,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",9
+North Carolina,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,1
+North Carolina,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
+North Carolina,Topic 5,Selling firearms without a valid license is a misdemeanor,3
+North Carolina,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,4
+North Carolina,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",5
+North Carolina,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",6
+North Carolina,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
+North Carolina,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,8
+North Carolina,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+North Carolina,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,10
+North Dakota,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",1
+North Dakota,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
+North Dakota,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+North Dakota,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",4
+North Dakota,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",5
+North Dakota,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",6
+North Dakota,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",7
+North Dakota,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,8
+North Dakota,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",9
+North Dakota,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",10
+Ohio,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,1
+Ohio,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",2
+Ohio,Topic 24,"It is illegal for any licensed importer, manufacturer, or dealer to sell, deliver, or transfer handguns to unlicensed individuals 90 days after the enactment of this subsection.",3
+Ohio,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
+Ohio,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",5
+Ohio,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,6
+Ohio,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,7
+Ohio,Topic 5,Selling firearms without a valid license is a misdemeanor,8
+Ohio,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",9
+Ohio,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",10
+Oklahoma,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,1
+Oklahoma,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",2
+Oklahoma,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,3
+Oklahoma,Topic 3,"A valid license can be issued for hunting, target shooting, and self-defense purposes by court justices, police boards, mayors, selectmen, or the commissioner of public safety.",4
+Oklahoma,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,5
+Oklahoma,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",6
+Oklahoma,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
+Oklahoma,Topic 8,"A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",8
+Oklahoma,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",9
+Oklahoma,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,10
+Oregon,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
+Oregon,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",2
+Oregon,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,3
+Oregon,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
+Oregon,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",5
+Oregon,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",6
+Oregon,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",7
+Oregon,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",8
+Oregon,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",9
+Oregon,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",10
+Pennsylvania,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
+Pennsylvania,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+Pennsylvania,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",3
+Pennsylvania,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,4
+Pennsylvania,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",5
+Pennsylvania,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",6
+Pennsylvania,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",7
+Pennsylvania,Topic 5,Selling firearms without a valid license is a misdemeanor,8
+Pennsylvania,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",9
+Pennsylvania,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
+Rhode Island,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
+Rhode Island,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
+Rhode Island,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",3
+Rhode Island,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",4
+Rhode Island,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",5
+Rhode Island,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,6
+Rhode Island,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",7
+Rhode Island,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",8
+Rhode Island,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,9
+Rhode Island,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",10
+South Carolina,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+South Carolina,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+South Carolina,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",3
+South Carolina,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",4
+South Carolina,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,5
+South Carolina,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",6
+South Carolina,Topic 28,"A person commits the offense of unlawful use of weapons when they carry or possess a pistol or revolver in any vehicle, or concealed on or about their person, unless on their own land or in their own abode, legal dwelling or fixed place of business.",7
+South Carolina,Topic 5,Selling firearms without a valid license is a misdemeanor,8
+South Carolina,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",9
+South Carolina,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
+South Dakota,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
+South Dakota,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",2
+South Dakota,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",3
+South Dakota,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",4
+South Dakota,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,5
+South Dakota,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",6
+South Dakota,Topic 5,Selling firearms without a valid license is a misdemeanor,7
+South Dakota,Topic 28,"A person commits the offense of unlawful use of weapons when they carry or possess a pistol or revolver in any vehicle, or concealed on or about their person, unless on their own land or in their own abode, legal dwelling or fixed place of business.",8
+South Dakota,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",9
+South Dakota,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",10
+Tennessee,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Tennessee,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",2
+Tennessee,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,3
+Tennessee,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
+Tennessee,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",5
+Tennessee,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",6
+Tennessee,Topic 5,Selling firearms without a valid license is a misdemeanor,7
+Tennessee,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",8
+Tennessee,Topic 2,"The sale of a firearm without a federal instant background check is a class A misdemeanor, and it is illegal to give or lend a handgun to a minor.",9
+Tennessee,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",10
+Texas,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Texas,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",2
+Texas,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+Texas,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",4
+Texas,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,5
+Texas,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,6
+Texas,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",7
+Texas,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",8
+Texas,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Texas,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,10
+Utah,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",1
+Utah,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,2
+Utah,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
+Utah,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",4
+Utah,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",5
+Utah,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,6
+Utah,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",7
+Utah,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+Utah,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",9
+Utah,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,10
+Vermont,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
+Vermont,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+Vermont,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",3
+Vermont,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",4
+Vermont,Topic 2,"The sale of a firearm without a federal instant background check is a class A misdemeanor, and it is illegal to give or lend a handgun to a minor.",5
+Vermont,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",6
+Vermont,Topic 6,"Whoever recklessly stores or leaves a loaded firearm within reach of a child can be found guilty of a Class A misdemeanor, and face relief in an order for protection if the child causes bodily harm or death to themselves or others.",7
+Vermont,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",8
+Vermont,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Vermont,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",10
+Virginia,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
+Virginia,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",2
+Virginia,Topic 11,The common law castle doctrine in the US established that a person attacked in their home had the right to use deadly force only if they reasonably believed it necessary to protect themselves.,3
+Virginia,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",4
+Virginia,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",5
+Virginia,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",6
+Virginia,Topic 8,"A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",7
+Virginia,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+Virginia,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,9
+Virginia,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,10
+Washington,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",1
+Washington,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+Washington,Topic 15,"Peace officers must arrest and charge a person suspected of committing a family violence crime, regardless of victim consent, relationship between suspects, or victim's request.",3
+Washington,Topic 20,A judge may grant up to one year permission to carry a concealed pistol or revolver to U.S. citizens who have submitted a petition to the district court clerk.,4
+Washington,Topic 17,"A firearms dealer must obtain a completed statement of intent, inspect proof of identity, and request a records check before transferring any handgun.",5
+Washington,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",6
+Washington,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",7
+Washington,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,8
+Washington,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,9
+Washington,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",10
+West Virginia,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",1
+West Virginia,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+West Virginia,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",3
+West Virginia,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
+West Virginia,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",5
+West Virginia,Topic 8,"A person under 18 years of age is guilty of unlawful possession of a handgun if they possess, manufacture, or transport it.",6
+West Virginia,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",7
+West Virginia,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",8
+West Virginia,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,9
+West Virginia,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,10
+Wisconsin,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",1
+Wisconsin,Topic 23,"No person or organization may sell, purchase, or repair firearms, destructive devices, parts, or ammunition without a dealer's license; registrants must comply with all duties imposed by this act.",2
+Wisconsin,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",3
+Wisconsin,Topic 13,"The State has preempted all firearm regulation, prohibiting political subdivisions from enacting any related ordinances.",4
+Wisconsin,Topic 16,A person who intentionally or recklessly stores or leaves a loaded firearm within reach or easy access of a minor is guilty of unlawfully permitting access.,5
+Wisconsin,Topic 18,"Any person who knowingly and intentionally sells, delivers, or transfers a firearm in violation commits a misdemeanor of the second degree.",6
+Wisconsin,Topic 26,The court may enter temporary orders to protect the plaintiff or minor child from abuse and may direct the defendant not to possess a firearm or other dangerous weapon.,7
+Wisconsin,Topic 19,Individuals with valid concealable weapons licenses are exempt from handgun carrying restrictions.,8
+Wisconsin,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",9
+Wisconsin,Topic 7,"Purchasing of antique cannons, rifles, and shotguns is prohibited, and applications for permits to purchase handguns and firearms purchaser identification cards must be in the form prescribed by the b.",10
+Wyoming,Topic 25,"Any person who sells, barters, gives, or furnishes a handgun to a minor, having good cause to believe them to be a minor, is guilty of a Class 6 felony, and must undergo a criminal history background check.",1
+Wyoming,Topic 27,"Minors under eighteen cannot possess or carry deadly weapons, except on their own or family premises or with parental/guardian permission.",2
+Wyoming,Topic 12,"A licensing authority may grant a permit to purchase, rent, or lease firearms to adults, and the state has the authority to regulate firearms and knives, while municipalities may not.",3
+Wyoming,Topic 29,"A protective order is a restraining order issued ex parte, after notice and hearing, or in a judgment, and prohibits a person subject to the order from owning, possessing, purchasing, or receiving firearms or ammunition while in effect.",4
+Wyoming,Topic 14,"No person may carry a pistol or revolver, possess a dangerous weapon, firearm, or short barreled shotgun, in any vehicle or on or about their person on school premises without a license or permit.",5
+Wyoming,Topic 22,"No handgun shall be delivered to any person without a valid permit to purchase a firearm and at least seven days have elapsed, nor shall any pistol or revolver be delivered within five days of application.",6
+Wyoming,Topic 9,"A court may issue an ex parte gun violence restraining order if a petition, affidavit and additional information show substantial likelihood of person's danger.",7
+Wyoming,Topic 4,"Selling Saturday night special pistols is a gross misdemeanor, and “family or household members” includes persons in a significant romantic or sexual relationship.",8
+Wyoming,Topic 10,"A person shall not possess a firearm if they have entered a plea of guilty but mentally ill, and a person must report the loss or theft of any firearm or dangerous ordnance to law enforcement immediately.",9
+Wyoming,Topic 21,Whoever sells or furnishes firearms to minors under the age of 15 will be fined between $100 and $500.,10
